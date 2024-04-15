@@ -1,10 +1,5 @@
 Experienced professional with a diverse background in Software development, AI engineering, and software quality assurance. Currently based in Los Angeles, CA, I am passionate about leveraging technology to build innovative solutions.
 
-🌐 **WordPress Developer**
-- Developed and maintained WordPress websites, themes, and plugins at MGJ Premium, Tokyo.
-- Implemented strategies for optimizing website speed, performance, and SEO.
-- Ensured website security through regular updates and disaster recovery procedures.
-
 🤖 **AI Engineer**
 - Currently at Soundromeda, Los Angeles, integrating AI algorithms for emotionally resonant experiences.
 - Streamlined cross-functional collaboration and provided critical feedback on game design.
