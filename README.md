@@ -1,19 +1,3 @@
-Experienced professional with a diverse background in Software development, AI engineering, and software quality assurance. Currently based in Los Angeles, CA, I am passionate about leveraging technology to build innovative solutions.
-
-🤖 **AI Engineer**
-- Currently at Soundromeda, Los Angeles, integrating AI algorithms for emotionally resonant experiences.
-- Streamlined cross-functional collaboration and provided critical feedback on game design.
-
-🛠️ **Skills & Projects**
-- Proficient in C#, C++, Python, JavaScript, React, Vue, and more.
-- Experienced with Azure, Unity 2D, Unreal Engine, and game development.
-- Developed Python-powered features for AI-driven systems and created online multiplayer games.
-- Designed and developed a Django-based survey app and RPG games showcasing C# proficiency.
-
-🌍 **Languages & Tools**
-- Experienced in microservices, distributed systems, and full-stack development.
-- Fluent in English, Tamil, and French.
-
-Let's connect and innovate together! 🚀
+Hi there! I'm Rajaarun, a results-driven AI engineer with deep expertise in machine learning, full-stack development, and scalable system design. I specialize in building high-performance AI models, deploying intelligent applications, and engineering seamless backend and frontend solutions using Python, TensorFlow, React, and Rust. I thrive in fast-paced environments where innovation, optimization, and cutting-edge technology collide. Let’s engineer smarter solutions and push the boundaries of what’s possible — together!
 
 [GitHub](rarulraj) • [LinkedIn](linkedin.com/in/rajaarun-arulraj-236a78259)
