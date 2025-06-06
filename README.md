@@ -4,4 +4,4 @@ Hi there! I'm Rajaarun, a results-driven AI engineer with deep expertise in mach
 
 Working On An Agentic Curriculum for Everyone 
 
-Private Commits
+Corporate Commiting but DW I still code 
