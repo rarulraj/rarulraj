@@ -5,3 +5,5 @@ Hi there! I'm Rajaarun, a results-driven AI engineer with deep expertise in mach
 Working On An Agentic Curriculum for Everyone 
 
 Corporate Commiting but DW I still code 
+
+<img width="914" alt="Image" src="https://github.com/user-attachments/assets/bf010295-46b4-4d9e-a8a8-9bc775b6594a" />
