@@ -6,5 +6,5 @@ Working On An Agentic Curriculum for Everyone
 
 Corporate Commiting but DW I still code 
 
-<img width="914" alt="Image" src="<img width="1169" height="237" alt="Screenshot 2025-07-29 at 1 32 09 PM" src="https://github.com/user-attachments/assets/e33a4401-b470-4288-a87d-8609a78390cb" />
+src="<img width="1169" height="237" alt="Screenshot 2025-07-29 at 1 32 09 PM" src="https://github.com/user-attachments/assets/e33a4401-b470-4288-a87d-8609a78390cb" />
 " />
